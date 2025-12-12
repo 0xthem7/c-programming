@@ -5,8 +5,6 @@ int main()
 {
   int r,l,b;
   float area,circum;
-  printf("Enter the value of radius : ");
-  scanf("%d",&r);
   printf("Enter the value of Length : ");
   scanf("%d",&l);
   printf("Enter the value of Breadth : ");
