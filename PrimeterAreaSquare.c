@@ -1,7 +1,6 @@
 /*Area and Peremeter of circle*/
 #include <stdio.h>
 
-
 int main()
 {
   int r,l;
